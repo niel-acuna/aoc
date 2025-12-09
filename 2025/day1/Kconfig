@@ -1,0 +1,3 @@
+config 2025_D1P1
+	bool "Part 1"
+	depends on 2025_D1

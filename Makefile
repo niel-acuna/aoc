@@ -13,6 +13,7 @@ export CFLAGS=$(_CFLAGS)
 export CC=$(_CC)
 
 include 2024/build_rules.mk
+include 2025/build_rules.mk
 
 .PHONY: $(AOC_DIRS-y)
 

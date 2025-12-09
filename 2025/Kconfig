@@ -1,0 +1,4 @@
+
+config 2025_D1
+	bool "--- Day 1: Secret Entrance ---"
+	source 2025/day1/Kconfig
